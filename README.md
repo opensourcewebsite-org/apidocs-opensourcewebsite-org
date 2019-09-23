@@ -6,7 +6,7 @@ Specification: https://api.opensourcewebsite.org/openapi.yaml
 
 The repository is a part of the [OpenSourceWebsite Organization](https://github.com/opensourcewebsite-org).
 
-## Code of conduct
+## Code of Conduct
 
 This project and everyone participating in it is governed by the [Code of Conduct](CODE_OF_CONDUCT.md).
 
@@ -28,7 +28,7 @@ https://github.com/mrdoob/three.js/wiki/How-to-run-things-locally
 
 ## License
 
-This project is open source and available freely under the [MIT license](LICENSE.md), powered by [an excellent community](https://github.com/opensourcewebsite-org/osw-vue-app/graphs/contributors).
+This project is open source and available freely under the [MIT license](LICENSE.md).
 
 ## Questions and Suggestions
 
