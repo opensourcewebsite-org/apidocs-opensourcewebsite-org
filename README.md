@@ -1,8 +1,8 @@
 <h1 align="center">OpenSourceWebsite API Documentation</h1>
 
-Live: https://api.opensourcewebsite.org
+Live: https://apidoc.opensourcewebsite.org
 
-Specification: https://api.opensourcewebsite.org/openapi.yaml
+Specification: https://apidoc.opensourcewebsite.org/openapi.yaml
 
 The repository is a part of the [OpenSourceWebsite Organization](https://github.com/opensourcewebsite-org).
 
