@@ -4,9 +4,7 @@ Live: https://apidocs.opensourcewebsite.org
 
 Specification: https://apidocs.opensourcewebsite.org/openapi.yaml
 
-The repository is a part of the [OpenSourceWebsite Organization](https://github.com/opensourcewebsite-org).
-
-This project and everyone participating in it is governed by the [Code of Conduct](CODE_OF_CONDUCT.md).
+The repository is a part of the [OpenSourceWebsite Organization](https://github.com/opensourcewebsite-org). This project and everyone participating in it is governed by the [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Contributing
 
